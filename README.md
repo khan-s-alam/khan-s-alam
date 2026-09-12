@@ -88,7 +88,7 @@ Check out my repositories for projects covering:
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: [Khan S. Alam](https://www.linkedin.com/in/khan-s-alam/)
-* 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* 🐙 GitHub: [@khan-s-alam](https://github.com/khan-s-alam)
 
 ---
 
